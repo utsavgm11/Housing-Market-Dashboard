@@ -1,0 +1,37 @@
+# 🏠 SmartBridge Housing Dashboard (Tableau)
+
+This repository contains a Tableau dashboard analyzing housing data, developed as part of a data visualization project.
+
+## 📁 Files
+
+- `project-smartbridge.twb`: Tableau workbook containing all visualizations.
+- `Transformed_Housing_Data2.csv`: Transformed and cleaned housing dataset used in the project.
+
+## 📊 Dashboard Overview
+
+The dashboard provides insights into:
+- Housing price trends
+- Property types distribution
+- Location-based price analysis
+- Other key performance indicators (KPIs)
+
+## 🔗 Tableau Public (Optional)
+
+If the dashboard is published on Tableau Public, include the link here:
+[👉 View Dashboard](https://public.tableau.com/views/project-smartbridge/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 📦 Tools Used
+
+- Tableau Desktop
+- Git & GitHub
+
+## 👨‍💻 Author
+
+**Utsav Ganesh Mahyawanshi**  
+Intern at,
+Lattice Software Solutions,
+Sigmoid Frogs.
+DY Patil University Pune, Ambi
+
+---
+
